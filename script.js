@@ -17,7 +17,7 @@ function showDetail(m) {
     return `<div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="assets/profil.png" class="img-fluid">
+                        <img src="profil.png" class="img-fluid">
                     </div>
                     <div class="col-md">
                         <ul class="list-group">
